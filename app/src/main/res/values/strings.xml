@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BitcoinFormatter</string>
+
+    <string name="type_sell">Продажа</string>
+    <string name="type_buy">Покупка</string>
+    <string name="label_buy_btc">Покупка биткоинов</string>
+    <string name="label_sell_btc">Продажа биткоинов</string>
+    <string name="hint_enter_btc">Укажите биткоин</string>
+    <string name="hint_enter_sum">Укажите сумму</string>
+    <string name="kzt">KZT (₸)</string>
+    <string name="usd">USD ($)</string>
+    <string name="eur">EUR (€)</string>
+    <string name="btc">BTC</string>
+    <string name="label_bitcoin">Bitcoin</string>
+    <string name="label_current_exchange_rate_text">Текущий курс биткоина</string>
+    <string name="label_week">За неделю</string>
+    <string name="label_month">За месяц</string>
+    <string name="label_year">За год</string>
+    <string name="label_id">ID</string>
+    <string name="label_date">Дата</string>
+    <string name="label_quantity">Кол-во</string>
+    <string name="label_sum">Сумма</string>
+    <string name="label_exchange_rate">Курс</string>
+    <string name="action_close">Закрыть</string>
+    <string name="label_history">История изменения цены</string>
+    <string name="label_transactions">Транзакции</string>
+    <string name="label_converter">Конвертер</string>
+
+</resources>
